@@ -16,3 +16,7 @@ Addind an image this time
 let myVariable;
 
 ```
+
+- [ ] create my first coding project on Github
+- [x] start the githubskills course
+- [ ] and another item
